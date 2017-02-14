@@ -3,3 +3,4 @@
 - `npm install`
 - `npm install -g react-native-cli`
 - `react-native run-ios`
+- of interest are `index.ios.js` and `/src`
